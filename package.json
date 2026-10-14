@@ -1,0 +1,8 @@
+{
+  "name": "nitesh-singh-portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio of Nitesh Singh",
+  "scripts": {
+    "build": "echo 'Static portfolio ready'"
+  }
+}
